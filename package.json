@@ -1,7 +1,7 @@
 {
-  "name": "money-top",
+  "name": "foo",
   "version": "1.0.0",
-  "description": "Money top",
+  "description": "foo",
   "main": "webpack.config.js",
   "dependencies": {
     "classlist.js": "^1.1.20150312"
@@ -27,8 +27,8 @@
   },
   "repository": {
     "type": "git",
-    "url": "https://shota.onodera@git.rakuten-it.com/scm/rmon/money-top.git"
+    "url": "foo"
   },
-  "author": "Rakuten, Inc.",
+  "author": "foo",
   "license": "MIT"
 }
